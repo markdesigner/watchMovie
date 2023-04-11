@@ -1,0 +1,23 @@
+{
+  "name": "vortex-watch",
+  "version": "1.0.0",
+  "description": "a app for search movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markdesigner/watchMovie.git"
+  },
+  "keywords": [
+    "react",
+    "movie"
+  ],
+  "author": "mark chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markdesigner/watchMovie/issues"
+  },
+  "homepage": "https://github.com/markdesigner/watchMovie#readme"
+}
